@@ -1,0 +1,9 @@
+# Arduino & PlatformIO
+.pio/
+.vscode/
+build/
+*.bin
+*.hex
+*.elf
+config.h
+*.log
