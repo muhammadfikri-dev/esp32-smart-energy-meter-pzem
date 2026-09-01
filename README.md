@@ -44,4 +44,4 @@ Lihat definisi pin lengkap dan konfigurasi pada file [`config.h.example`](./conf
 ---
 
 ## 📄 Lisensi
-Didistribusikan di bawah lisensi open-source **MIT License**. Dikembangkan oleh **Muhammad Fikri**.
+Didistribusikan di bawah lisensi open-source **MIT License**. Dibuat dengan ❤️ oleh **Muhammad Fikri Dev**.
